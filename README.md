@@ -1,5 +1,5 @@
 # E-Commerce_Webapp
-This is a simple E-Comerce web application named "Potti Kadai" built using HTML and CSS . It is useful order things from home rather than moving to physical stores.
+This is a simple E-Comerce web application named "Potti Kadai" built using HTML and CSS . It is useful to order things from home rather than moving to physical stores.
 
 ------------------------------------------------
 
